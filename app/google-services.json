@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903078853244",
+    "project_id": "upload-ds3t-luiz",
+    "storage_bucket": "upload-ds3t-luiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903078853244:android:2e45da917b70ec7f18e7f9",
+        "android_client_info": {
+          "package_name": "com.example.upload_ds3t"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavJ6py5Ul_R6l3Rv_M56ilmYiFRZWAag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
